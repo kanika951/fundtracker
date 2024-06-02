@@ -1,0 +1,22 @@
+.agwrapper-outer{
+    display: flex;
+    justify-content: center;
+    padding: 6vh 0;
+    height: 60vh;
+  }
+  .agwrapper-inner {
+    border-radius: 11px;
+    width: 74%;
+    height: 100%;
+  }
+  .status-bar{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .exportBtn:hover{
+    cursor: pointer;
+  }
+  /* .ag-group-value {
+    display: inline-flex;
+  } */

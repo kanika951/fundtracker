@@ -1,0 +1,6 @@
+{
+    "app.name" : "English" ,
+    "app.content" : "Apprendre React" ,
+    "app.channel.plug": "Tutoriel présenté par Lokalise",
+    "app.heading": "Welcome to {productName}"
+   }
