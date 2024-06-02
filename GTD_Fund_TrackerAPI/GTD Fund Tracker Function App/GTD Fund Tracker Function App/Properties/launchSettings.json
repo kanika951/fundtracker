@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "GTD_Fund_Tracker_Function_App": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7272",
-      "launchBrowser": false
-    }
-  }
-}
