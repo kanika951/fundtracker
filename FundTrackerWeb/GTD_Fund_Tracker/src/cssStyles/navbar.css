@@ -1,0 +1,67 @@
+.userNavbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: nowrap;
+  background-color: #1677ff;
+  height: 9vh;
+  position: sticky;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  z-index: 4;
+}
+body {
+  background-color: #fff;
+  color: #333;
+}
+.dark-theme {
+  background: #1e2833;
+}
+.dark-theme body {
+  background-color: #1e2833;
+  color: #fff;
+}
+.dark-theme p {
+  text-align: center;
+  color: #dceeff;
+}
+.dark-theme .userNavbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: nowrap;
+  background-color: #2a3e52;
+  height: 9vh;
+  position: sticky;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+.dark-theme .userAppHeading {
+  width: 100%;
+  height: 9vh;
+  margin: auto;
+  padding-top: 5vh;
+  text-align: center;
+  color: #dceeff;
+}
+.dark-theme .addSpendigHeading {
+  color: #dceeff;
+}
+.dark-theme .formHeading {
+  color: #dceeff;
+}
+.dark-theme .signInHeading {
+  color: #dceeff;
+}
+.dark-theme .register-heading {
+  color: #dceeff;
+}
+.dark-theme .sub-pending-amount {
+  color: #dceeff;
+}
+.dark-theme .pending-amount-text {
+  color: lightgreen;
+}

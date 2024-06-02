@@ -1,0 +1,20 @@
+.fundhistory-dateinputs {
+  display: flex;
+  justify-content: space-around;
+  width: 20vw;
+  gap: 0vw;
+}
+.fundhistory-inputlist{
+    width: 99%;
+  justify-content: space-around;
+  padding: 0 7vw;
+  margin-bottom: 2vh;
+  gap: 10px;
+    padding-left: 29vw;
+}
+.fundhistory-monthpicker{
+    width: 11vw;
+}
+/* .heading1{
+  display: block;
+} */
